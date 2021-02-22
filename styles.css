@@ -30,7 +30,7 @@ p {
 }
 
 .container-fluid {
-  padding: 3% 15% 10%;
+  padding: 3% 11% 10%;
 }
 
 .row {
@@ -40,8 +40,8 @@ p {
 
 .su {
   text-align: center;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
   margin-top: 16px;
 }
 
