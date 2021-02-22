@@ -56,6 +56,11 @@ p {
   padding-right: 300px;
 }
 
+.wp-image-227{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
 /* Style the form element with a border around it */
 form {
   border: 0px solid #f1f1f1;
