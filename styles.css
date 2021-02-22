@@ -1,0 +1,136 @@
+body {}
+
+p {
+  text-align: center;
+}
+
+#title {
+  background-image: url("https://cdn.datafloq.com/cache/blog_pictures/878x531/help-nontechnical-audience-understand-data-science.jpg");
+  background-repeat: no-repeat;
+  /* background-attachment: fixed;  As jy wil he die background foto moet nie saam scroll nie*/
+  background-size: 100% 100%;
+  color: #fff;
+  font-size: 1.5rem;
+  }
+
+
+
+
+.title-image {
+  text-align: center;
+  }
+
+.navbar-light .navbar-brand {
+  color: aliceblue;
+  font-size: 2rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: aliceblue;
+}
+
+.container-fluid {
+  padding: 3% 15% 10%;
+}
+
+.row {
+  padding-top: 40px;
+  position: relative;
+}
+
+.su {
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: 16px;
+}
+
+.subs1 {
+  margin-top: 20px;
+
+}
+
+.subs2{
+  margin-top: 20px;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+/* Style the form element with a border around it */
+form {
+  border: 0px solid #f1f1f1;
+}
+
+/* Add some padding and a grey background color to containers */
+.container {
+  padding: 0px;
+  background-color: #f1f1f1;
+}
+
+/* Style the input elements and the submit button */
+input[type=text], input[type=submit] {
+  width: 100%;
+  padding: 0px;
+  margin: 0px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  }
+
+/* Add margins to the checkbox */
+input[type=checkbox] {
+  margin-top: 16px;
+}
+
+/* Style the submit button */
+input[type=submit] {
+  background-color: #4CAF50;
+  color: #f1f1f1;
+  border: none;
+}
+
+input[type=submit]:hover {
+  opacity: 0.8;
+}
+
+/* Process */
+.has-text-align-center {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.wp-block-image {
+  text-align: center;
+}
+
+/* About */
+.has-text-align-left {
+  text-align: center;
+padding: 0 20px;
+}
+
+.subs1{
+  border: 0 0;
+}
+
+.btt {
+  color: black;
+  font-family: arial;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* Verander fontgroote as hover oor Back to top */
+.btt:hover{
+  font-size: 30px;
+}
+
+/* Footer */
+.footer-icn {
+  padding: 2px 10px;
+  margin: 5px;
+}
+
+#footer {
+  text-align: center;
+  padding-top: 20px;
+}
