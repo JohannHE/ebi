@@ -56,10 +56,6 @@ p {
   padding-right: 300px;
 }
 
-.wp-image-227{
-  padding-left: 100px;
-  padding-right: 100px;
-}
 
 /* Style the form element with a border around it */
 form {
@@ -138,4 +134,16 @@ padding: 0 20px;
 #footer {
   text-align: center;
   padding-top: 20px;
+}
+
+/* CSS Media Query - Om website mobile responsive te maak */
+@media (max-width: 1000px) {
+  #title {
+    text-align: center;
+  }
+
+  .wp-image-227 {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
 }
